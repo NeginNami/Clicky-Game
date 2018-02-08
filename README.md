@@ -5,7 +5,7 @@ This game is a memory game built with React. All of the characters are from Sout
 
 ## Deployed on Github Pages
 
-[Play]()
+[Play](https://neginnami.github.io/Clicky-Game)
 
 ## React Structure
 
